@@ -1,0 +1,55 @@
+h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #586D87   /*Dark Greyish Blue*/ 
+}
+#letterform-character{
+    color: #D3A46F;   /*Muted Gold*/
+    font-family: Rosario Bold;
+}
+
+h1 {
+    color: #D3A46F;       /*Gold*/
+    font-size: 1500px;
+    font-weight: bold;
+    font-family: rosario; 
+}
+
+h2 {
+    color: #FFFFFF;       /*White*/
+    font-size: 40px;
+    font-weight: bold;
+    font-family: rosario; 
+    margin: 60px; 
+    letter-spacing: 15%; 
+}
+
+h3 {
+    color: #D64F68;   /*Red*/ 
+    font-size: 40px;
+    font-weight: bold;
+    font-family: rosario; 
+    margin: 60px; 
+}
+
+p {
+    color: #FFFFFF;   /*White*/ 
+    text-align: right;
+}
+
+#button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; 
+    background-color:#D64F68;   /*Red*/ 
+}
+
+#button:hover {
+    width: 40px;
+    height: 40px;
+    background-color: #FFFFFF;  /*White*/ 
+    cursor: pointer; 
+}
