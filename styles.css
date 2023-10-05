@@ -29,6 +29,8 @@ h2 {
     font-family: rosario; 
     margin: 60px; 
     letter-spacing: 15%; 
+    position: absolute;
+    top: 40px;
 }
 
 h3 {
@@ -36,7 +38,9 @@ h3 {
     font-size: 40px;
     font-weight: bold;
     font-family: rosario; 
-    margin: 60px; 
+    margin: 68px; 
+    position: absolute;
+    top: 180px;
 }
 
 h4 {
@@ -92,6 +96,9 @@ p {
     height: 40px;
     border-radius: 50%; 
     background-color:#D64F68;   /*Red*/ 
+    position: absolute;
+    top: 209px;
+    left: 545px;
 }
 
 #button:hover {
