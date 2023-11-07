@@ -5,7 +5,7 @@ h1,h2,h3,h4,h5,h6,p {
 }
 
 html {
-    background-color: #586D87   /*Dark Greyish Blue*/ 
+    background-color: #586D87;  /*Dark Greyish Blue*/
 }
 
 /***************************letterform*********************/
@@ -80,6 +80,7 @@ p {
     font-size: 150px;
     font-family: rosario;
     font-weight: bold;
+    margin: 300px;
 }
 
 #alphabet-2 {
@@ -88,6 +89,8 @@ p {
     font-size: 150px;
     font-family: rosario;
     font-weight: bold; 
+    margin: 300px; 
+    align-content: vertical; 
 }
 
 /***************************************button********/
@@ -111,4 +114,5 @@ p {
 /*****************************image***************/
 img { 
     border-radius: 50%; 
+    size: 23px; 
 }
