@@ -6,6 +6,11 @@
     --sans:'Press Start 2P'; 
 }
 
+p {
+    font-family: 'Roboto Slab';
+    font-size: 15px; 
+}
+
 /****** Color ******/
 
 /****** Navigation ******/
@@ -18,17 +23,17 @@ section {
 }
 
 #first-section{
-    background-color: red; 
+    background-color:#F0EDFE; 
     font-family: var(--sans)
 }
 
 #second-section{
-    background-color: blue;
+    background-color: #F0EDFE;
     font-family: var(--serif)
 }
 
 #third-section{
-    background-color: green; 
+    background-color: #F0EDFE; 
 }
 
 .flex{
