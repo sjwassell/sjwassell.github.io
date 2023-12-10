@@ -57,3 +57,23 @@ section {
     width: 1242px;
     margin: 0 auto;
 }
+
+.soul-silver {
+    margin: 15 50 20 40;
+    padding: 20 30 50 5
+}
+
+.about-bugsy {
+    margin: 20 30 50 5;
+    padding: 0px 0px 50px 200px;
+}
+
+.bugsy {
+    font-family: 'Press Start 2P';
+    font-size: 32px; 
+}
+
+.pokemon {
+    font-family: 'Press Start 2P';
+    font-size: 32px; 
+}
